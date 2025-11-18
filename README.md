@@ -1,10 +1,10 @@
 ## Hi there 👋
-## I’m Francisco, a full-stack developer focused on building projects that demonstrate my technical skills and prepare me for a software development career.
-## My core technologies include HTML, CSS, JavaScript, React, and SQL. I’m actively refining my skills in React and SQL, and I’m currently working on a finance analyzer built with React and Recharts.
-## I completed the UT Austin Coding Bootcamp and continue to challenge myself by creating projects that are both useful and fun, helping me deepen my knowledge and expand my portfolio.
+I’m Francisco, a full-stack developer focused on building projects that demonstrate my technical skills and prepare me for a software development career.
+My core technologies include HTML, CSS, JavaScript, React, and SQL. I’m actively refining my skills in React and SQL, and I’m currently working on a finance analyzer built with React and Recharts.
+I completed the UT Austin Coding Bootcamp and continue to challenge myself by creating projects that are both useful and fun, helping me deepen my knowledge and expand my portfolio.
 
 ## Looking for Guidance 🤝
-## I’m seeking help from developers and mentors who can offer insight into what it takes to break into the software development world. I’m eager to learn about real-world expectations, best practices, and the kinds of projects or experience that help new developers build strong foundations.
+I’m seeking help from developers and mentors who can offer insight into what it takes to break into the software development world. I’m eager to learn about real-world expectations, best practices, and the kinds of projects or experience that help new developers build strong foundations.
 
 <!--
 **frarangel3/frarangel3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
